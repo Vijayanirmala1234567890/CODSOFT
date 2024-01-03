@@ -1,6 +1,3 @@
-##Task 1: Chatbot with Rule-Based Responses
-Building a simple chatbot that responds to user inputs based on predefined rules. The chatbot uses if-else statements or pattern matching techniques to identify user queries and provides appropriate responses.
-CODE:
 import re
 
 def rule_based_chatbot(user_input):
